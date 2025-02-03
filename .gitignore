@@ -1,7 +1,3 @@
-#my files 
-.gitignore 
-package-lock-json
-
 # Logs
 logs
 *.log
